@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{4D481F9E-6543-46A3-BD4C-DAD906F1FDDC}|Default">
+  <MonoDevelop.Ide.ItemProperties.SistemaVenta.Model FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.SistemaVenta.BLL FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APISistemaVenta" expanded="True">
+            <Node name="SistemaVenta.API" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+            <Node name="SistemaVenta.DAL" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SistemaVenta.DTO FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SistemaVenta.Utility FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SistemaVenta.API FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SistemaVenta.DAL FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SistemaVenta.IOC FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Inicio" Name="Inicio">
+      <Items>
+        <StartupItem ItemId="{4D481F9E-6543-46A3-BD4C-DAD906F1FDDC}" ItemName="SistemaVenta.Model" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
